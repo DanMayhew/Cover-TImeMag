@@ -1,0 +1,65 @@
+{
+  "years": [
+    {
+      "female": 8,
+      "male": 37,
+      "year": 1990,
+      "total": 46
+    },
+    {
+      "female": 9,
+      "male": 30,
+      "year": 1991,
+      "total": 39
+    },
+    {
+      "female": 7,
+      "male": 31,
+      "year": 1992,
+      "total": 38
+    },
+    {
+      "female": 11,
+      "male": 30,
+      "year": 1993,
+      "total": 41
+    },
+    {
+      "female": 7,
+      "male": 31,
+      "year": 1994,
+      "total": 38
+    },
+    {
+      "female": 4,
+      "male": 31,
+      "year": 1995,
+      "total": 35
+    },
+    {
+      "female": 12,
+      "male": 33,
+      "year": 1996,
+      "total": 45
+    },
+    {
+      "female": 7,
+      "male": 31,
+      "year": 1997,
+      "total": 38
+    },
+    {
+      "female": 6,
+      "male": 35,
+      "year": 1998,
+      "total": 41
+    },
+    {
+      "female": 9,
+      "male": 35,
+      "year": 1999,
+      "total": 44
+    }
+  ],
+  "decade": "1990"
+}

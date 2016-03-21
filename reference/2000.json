@@ -1,0 +1,65 @@
+{
+  "years": [
+    {
+      "female": 8,
+      "male": 35,
+      "year": 2000,
+      "total": 44
+    },
+    {
+      "female": 8,
+      "male": 31,
+      "year": 2001,
+      "total": 39
+    },
+    {
+      "female": 11,
+      "male": 26,
+      "year": 2002,
+      "total": 37
+    },
+    {
+      "female": 13,
+      "male": 33,
+      "year": 2003,
+      "total": 46
+    },
+    {
+      "female": 12,
+      "male": 34,
+      "year": 2004,
+      "total": 46
+    },
+    {
+      "female": 18,
+      "male": 25,
+      "year": 2005,
+      "total": 43
+    },
+    {
+      "female": 7,
+      "male": 28,
+      "year": 2006,
+      "total": 35
+    },
+    {
+      "female": 12,
+      "male": 32,
+      "year": 2007,
+      "total": 44
+    },
+    {
+      "female": 8,
+      "male": 35,
+      "year": 2008,
+      "total": 43
+    },
+    {
+      "female": 11,
+      "male": 25,
+      "year": 2009,
+      "total": 36
+    }
+  ],
+  "decade": "2000"
+}

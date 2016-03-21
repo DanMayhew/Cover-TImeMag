@@ -1,0 +1,65 @@
+{
+  "years": [
+    {
+      "female": 3,
+      "male": 49,
+      "year": 1940,
+      "total": 52
+    },
+    {
+      "female": 2,
+      "male": 50,
+      "year": 1941,
+      "total": 52
+    },
+    {
+      "female": 1,
+      "male": 50,
+      "year": 1942,
+      "total": 51
+    },
+    {
+      "female": 3,
+      "male": 49,
+      "year": 1943,
+      "total": 52
+    },
+    {
+      "female": 1,
+      "male": 50,
+      "year": 1944,
+      "total": 51
+    },
+    {
+      "female": 2,
+      "male": 50,
+      "year": 1945,
+      "total": 52
+    },
+    {
+      "female": 6,
+      "male": 45,
+      "year": 1946,
+      "total": 51
+    },
+    {
+      "female": 7,
+      "male": 44,
+      "year": 1947,
+      "total": 51
+    },
+    {
+      "female": 7,
+      "male": 44,
+      "year": 1948,
+      "total": 51
+    },
+    {
+      "female": 7,
+      "male": 45,
+      "year": 1949,
+      "total": 52
+    }
+  ],
+  "decade": "1940"
+}

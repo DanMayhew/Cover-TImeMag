@@ -1,0 +1,65 @@
+{
+  "years": [
+    {
+      "female": 5,
+      "male": 35,
+      "year": 1970,
+      "total": 41
+    },
+    {
+      "female": 3,
+      "male": 43,
+      "year": 1971,
+      "total": 46
+    },
+    {
+      "female": 4,
+      "male": 41,
+      "year": 1972,
+      "total": 45
+    },
+    {
+      "female": 5,
+      "male": 39,
+      "year": 1973,
+      "total": 44
+    },
+    {
+      "female": 5,
+      "male": 41,
+      "year": 1974,
+      "total": 46
+    },
+    {
+      "female": 10,
+      "male": 36,
+      "year": 1975,
+      "total": 46
+    },
+    {
+      "female": 8,
+      "male": 32,
+      "year": 1976,
+      "total": 40
+    },
+    {
+      "female": 10,
+      "male": 37,
+      "year": 1977,
+      "total": 47
+    },
+    {
+      "female": 5,
+      "male": 40,
+      "year": 1978,
+      "total": 45
+    },
+    {
+      "female": 4,
+      "male": 38,
+      "year": 1979,
+      "total": 42
+    }
+  ],
+  "decade": "1970"
+}

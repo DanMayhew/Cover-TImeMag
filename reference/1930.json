@@ -1,0 +1,65 @@
+{
+  "years": [
+    {
+      "female": 6,
+      "male": 46,
+      "year": 1930,
+      "total": 52
+    },
+    {
+      "female": 6,
+      "male": 45,
+      "year": 1931,
+      "total": 50
+    },
+    {
+      "female": 3,
+      "male": 48,
+      "year": 1932,
+      "total": 51
+    },
+    {
+      "female": 6,
+      "male": 44,
+      "year": 1933,
+      "total": 50
+    },
+    {
+      "female": 3,
+      "male": 49,
+      "year": 1934,
+      "total": 51
+    },
+    {
+      "female": 7,
+      "male": 44,
+      "year": 1935,
+      "total": 51
+    },
+    {
+      "female": 5,
+      "male": 46,
+      "year": 1936,
+      "total": 51
+    },
+    {
+      "female": 7,
+      "male": 49,
+      "year": 1937,
+      "total": 52
+    },
+    {
+      "female": 2,
+      "male": 50,
+      "year": 1938,
+      "total": 52
+    },
+    {
+      "female": 9,
+      "male": 42,
+      "year": 1939,
+      "total": 51
+    }
+  ],
+  "decade": "1930"
+}

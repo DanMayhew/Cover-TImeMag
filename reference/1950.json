@@ -1,0 +1,65 @@
+{
+  "years": [
+    {
+      "female": 2,
+      "male": 46,
+      "year": 1950,
+      "total": 48
+    },
+    {
+      "female": 4,
+      "male": 46,
+      "year": 1951,
+      "total": 50
+    },
+    {
+      "female": 6,
+      "male": 44,
+      "year": 1952,
+      "total": 50
+    },
+    {
+      "female": 10,
+      "male": 41,
+      "year": 1953,
+      "total": 51
+    },
+    {
+      "female": 2,
+      "male": 48,
+      "year": 1954,
+      "total": 50
+    },
+    {
+      "female": 7,
+      "male": 44,
+      "year": 1955,
+      "total": 51
+    },
+    {
+      "female": 2,
+      "male": 50,
+      "year": 1956,
+      "total": 52
+    },
+    {
+      "female": 4,
+      "male": 45,
+      "year": 1957,
+      "total": 49
+    },
+    {
+      "female": 3,
+      "male": 47,
+      "year": 1958,
+      "total": 50
+    },
+    {
+      "female": 4,
+      "male": 46,
+      "year": 1959,
+      "total": 50
+    }
+  ],
+  "decade": "1950"
+}

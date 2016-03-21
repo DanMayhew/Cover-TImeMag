@@ -1,0 +1,65 @@
+{
+  "years": [
+    {
+      "female": 2,
+      "male": 39,
+      "year": 1980,
+      "total": 41
+    },
+    {
+      "female": 6,
+      "male": 26,
+      "year": 1981,
+      "total": 32
+    },
+    {
+      "female": 5,
+      "male": 36,
+      "year": 1982,
+      "total": 41
+    },
+    {
+      "female": 4,
+      "male": 39,
+      "year": 1983,
+      "total": 43
+    },
+    {
+      "female": 10,
+      "male": 31,
+      "year": 1984,
+      "total": 43
+    },
+    {
+      "female": 4,
+      "male": 33,
+      "year": 1985,
+      "total": 37
+    },
+    {
+      "female": 5,
+      "male": 29,
+      "year": 1986,
+      "total": 34
+    },
+    {
+      "female": 7,
+      "male": 32,
+      "year": 1987,
+      "total": 39
+    },
+    {
+      "female": 6,
+      "male": 33,
+      "year": 1988,
+      "total": 39
+    },
+    {
+      "female": 9,
+      "male": 31,
+      "year": 1989,
+      "total": 40
+    }
+  ],
+  "decade": "1980"
+}
