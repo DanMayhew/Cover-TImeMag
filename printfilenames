@@ -1,1 +1,9 @@
+# print file names in reference folder; homework #6
+import sys
+import os
 
+path = "C:/Users/Dan/PycharmProjects/Cover-TimeMag/reference"
+dirs = os.listdir( path )
+
+for file in dirs:
+   print (file)
