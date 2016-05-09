@@ -18,7 +18,7 @@ class TestExample1(unittest.TestCase):
 
         arguments = dict(
             number='(541) 555-4842',
-            code='ZS'
+            code='ZQ'
         )
         self.assertTrue(lambda_handler(arguments, None)['result'])
 

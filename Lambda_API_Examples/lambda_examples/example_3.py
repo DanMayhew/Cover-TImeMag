@@ -13,7 +13,7 @@ def to_integer(character):
     if character in string.digits:
         return int(character)
 
-    return string.ascii_lowercase.index(character.lower())
+    return string.ascii_lowercase.index(character.lower()) + 1
 
 
 def lambda_handler(event, context):
